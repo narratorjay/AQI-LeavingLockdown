@@ -4,7 +4,7 @@
            # initialise ----------------------------------------------------------------
            # from https://www.r-bloggers.com/accessing-apis-from-r-and-a-little-r-programming/ 
            
-           setwd('/home/jay/R/aqi/data/raw')
+           
            library('tidyverse')
            library('jsonlite')
            library('httr')
