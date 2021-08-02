@@ -70,7 +70,7 @@
               Sys.sleep(16.0)
            }
            setwd('~/c3/citiesAQIforGit/data/raw')
-           write.csv(aqiStationsDF0, file = "StationLocations.csv", na = 'NA')
+           write.csv(aqiStationsDF0, file = "StationLocations.csv", na = 'NA', col.names = FALSE)
            stopTime <- Sys.time()
            timeTaken <- stopTime - goTime
            print(timeTaken) 

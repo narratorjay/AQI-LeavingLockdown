@@ -1,0 +1,79 @@
+1,stationIDX,lat,lon,name,url
+2,3158,57.15736,-2.094278,"Aberdeen, United Kingdom",https://aqicn.org/city/united-kingdom/aberdeen
+3,3159,55.79216,-3.2429,"Auchencorth Moss, United Kingdom",https://aqicn.org/city/united-kingdom/auchencorth-moss
+4,3160,54.59965,-5.928833,"Belfast Centre, United Kingdom",https://aqicn.org/city/united-kingdom/belfast-centre
+5,3161,52.437165,-1.829999,"Birmingham Acocks Green, United Kingdom",https://aqicn.org/city/united-kingdom/birmingham-acocks-green
+6,3162,52.511722,-1.830583,"Birmingham Tyburn, United Kingdom",https://aqicn.org/city/united-kingdom/birmingham-tyburn
+7,3163,52.512194,-1.830861,Birmingham Tyburn Roadside,http://aqicn.org/city/united-kingdom/birmingham-tyburn-roadside/
+8,3164,53.80489,-3.007175,"Blackpool Marton, United Kingdom",https://aqicn.org/city/united-kingdom/blackpool-marton
+9,3165,51.462839,-2.584482,Bristol St Paul\'s,http://aqicn.org/city/united-kingdom/bristol-st-pauls/
+10,3166,51.54421,-0.175269,"Camden Kerbside, United Kingdom",https://aqicn.org/city/united-kingdom/camden-kerbside
+11,3167,51.48178,-3.17625,"Cardiff Centre, United Kingdom",https://aqicn.org/city/united-kingdom/cardiff-centre
+12,3168,54.894834,-2.945307,"Carlisle Roadside, United Kingdom",https://aqicn.org/city/united-kingdom/carlisle-roadside
+13,3169,51.374264,0.54797,"Chatham Roadside, United Kingdom",https://aqicn.org/city/united-kingdom/chatham-roadside
+14,3170,51.638094,-2.678731,"Chepstow A48, United Kingdom",https://aqicn.org/city/united-kingdom/chepstow-a48
+15,3171,53.230583,-1.433611,Chesterfield,http://aqicn.org/city/united-kingdom/chesterfield/
+16,3172,53.231722,-1.456944,"Chesterfield Roadside, United Kingdom",https://aqicn.org/city/united-kingdom/chesterfield-roadside
+17,3173,52.394399,-1.519612,Coventry Memorial Park,http://aqicn.org/city/united-kingdom/coventry-memorial-park/
+18,3174,55.001225,-7.329115,Derry,http://aqicn.org/city/united-kingdom/derry/
+19,3175,50.805778,0.271611,"Eastbourne, United Kingdom",https://aqicn.org/city/united-kingdom/eastbourne
+20,3176,55.945589,-3.182186,"Edinburgh St Leonards, United Kingdom",https://aqicn.org/city/united-kingdom/edinburgh-st-leonards
+21,3177,55.85917,-4.258889,"Glasgow Kerbside, United Kingdom",https://aqicn.org/city/united-kingdom/glasgow-kerbside
+22,3178,56.010319,-3.704399,"Grangemouth, United Kingdom",https://aqicn.org/city/united-kingdom/grangemouth
+23,3179,51.5993,-0.068218,"Haringey Roadside, United Kingdom",https://aqicn.org/city/united-kingdom/haringey-roadside
+24,3180,51.571078,-1.325283,Harwell,http://aqicn.org/city/united-kingdom/harwell/
+25,3181,53.74878,-0.341222,"Hull Freetown, United Kingdom",https://aqicn.org/city/united-kingdom/hull-freetown
+26,3182,52.28881,-1.533119,"Leamington Spa, United Kingdom",https://aqicn.org/city/united-kingdom/leamington-spa
+27,3183,52.294884,-1.542911,"Leamington Spa Rugby Road, United Kingdom",https://aqicn.org/city/united-kingdom/leamington-spa-rugby-road
+28,3184,53.80378,-1.546472,"Leeds Centre, United Kingdom",https://aqicn.org/city/united-kingdom/leeds-centre
+29,3185,53.819972,-1.576361,"Leeds Headingley Kerbside, United Kingdom",https://aqicn.org/city/united-kingdom/leeds-headingley-kerbside
+30,3186,52.631348,-1.133006,Leicester Centre,http://aqicn.org/city/united-kingdom/leicester-centre/
+31,3187,53.34633,-2.844333,"Liverpool Speke, United Kingdom",https://aqicn.org/city/united-kingdom/liverpool-speke
+32,3188,51.46603,0.184806,"London Bexley, United Kingdom",https://aqicn.org/city/united-kingdom/london-bexley
+33,3189,51.52229,-0.125889,"London Bloomsbury, United Kingdom",https://aqicn.org/city/united-kingdom/london-bloomsbury
+34,3190,51.45258,0.070766,"London Eltham, United Kingdom",https://aqicn.org/city/united-kingdom/london-eltham
+35,3191,51.48879,-0.441614,"London Harlington, United Kingdom",https://aqicn.org/city/united-kingdom/london-harlington
+36,3192,51.617333,-0.298777,"London Harrow Stanmore, United Kingdom",https://aqicn.org/city/united-kingdom/london-harrow-stanmore
+37,3193,51.52253,-0.154611,"London Marylebone Road, United Kingdom",https://aqicn.org/city/united-kingdom/london-marylebone-road
+38,3194,51.52105,-0.213492,"London N. Kensington, United Kingdom",https://aqicn.org/city/united-kingdom/london-n.-kensington
+39,3195,51.425286,-0.345606,"London Teddington Bushy Park, United Kingdom",https://aqicn.org/city/united-kingdom/london-teddington-bushy-park
+40,3196,53.48152,-2.237881,"Manchester Piccadilly, United Kingdom",https://aqicn.org/city/united-kingdom/manchester-piccadilly
+41,3197,54.569297,-1.220874,"Middlesbrough, United Kingdom",https://aqicn.org/city/united-kingdom/middlesbrough
+42,3198,54.97825,-1.610528,"Newcastle Centre, United Kingdom",https://aqicn.org/city/united-kingdom/newcastle-centre
+43,3199,52.614193,1.301976,"Norwich Lakenfields, United Kingdom",https://aqicn.org/city/united-kingdom/norwich-lakenfields
+44,3200,52.95473,-1.146447,"Nottingham Centre, United Kingdom",https://aqicn.org/city/united-kingdom/nottingham-centre
+45,3201,51.744806,-1.260278,"Oxford St Ebbes, United Kingdom",https://aqicn.org/city/united-kingdom/oxford-st-ebbes
+46,3202,50.37167,-4.142361,"Plymouth Centre, United Kingdom",https://aqicn.org/city/united-kingdom/plymouth-centre
+47,3203,51.58395,-3.770822,"Port Talbot Margam, United Kingdom",https://aqicn.org/city/united-kingdom/port-talbot-margam
+48,3204,50.82881,-1.068583,"Portsmouth, United Kingdom",https://aqicn.org/city/united-kingdom/portsmouth
+49,3205,53.76559,-2.680353,"Preston, United Kingdom",https://aqicn.org/city/united-kingdom/preston
+50,3206,51.45309,-0.944067,"Reading New Town, United Kingdom",https://aqicn.org/city/united-kingdom/reading-new-town
+51,3207,51.45617,0.634889,"Rochester Stoke, United Kingdom",https://aqicn.org/city/united-kingdom/rochester-stoke
+52,3208,53.48481,-2.334139,"Salford Eccles, United Kingdom",https://aqicn.org/city/united-kingdom/salford-eccles
+53,3209,50.411463,-4.227678,"Saltash Callington Road, United Kingdom",https://aqicn.org/city/united-kingdom/saltash-callington-road
+54,3210,52.132417,-0.300306,"Sandy Roadside, United Kingdom",https://aqicn.org/city/united-kingdom/sandy-roadside
+55,3211,50.90814,-1.395778,"Southampton Centre, United Kingdom",https://aqicn.org/city/united-kingdom/southampton-centre
+56,3212,51.544206,0.678408,"Southend-on-Sea, United Kingdom",https://aqicn.org/city/united-kingdom/southend-on-sea
+57,3213,51.518167,0.439548,"Stanford-le-Hope Roadside, United Kingdom",https://aqicn.org/city/united-kingdom/stanford-le-hope-roadside
+58,3214,54.516667,-1.358547,"Stockton-on-Tees Eaglescliffe, United Kingdom",https://aqicn.org/city/united-kingdom/stockton-on-tees-eaglescliffe
+59,3215,53.02821,-2.175133,"Stoke-on-Trent Centre, United Kingdom",https://aqicn.org/city/united-kingdom/stoke-on-trent-centre
+60,3216,50.916932,-0.449548,"Storrington Roadside, United Kingdom",https://aqicn.org/city/united-kingdom/storrington-roadside
+61,3217,54.88361,-1.406878,"Sunderland Silksworth, United Kingdom",https://aqicn.org/city/united-kingdom/sunderland-silksworth
+62,3218,51.632696,-3.947374,"Swansea Roadside, United Kingdom",https://aqicn.org/city/united-kingdom/swansea-roadside
+63,3219,53.38928,-2.615358,"Warrington, United Kingdom",https://aqicn.org/city/united-kingdom/warrington
+64,3220,53.54914,-2.638139,"Wigan Centre, United Kingdom",https://aqicn.org/city/united-kingdom/wigan-centre
+65,3221,53.37287,-3.022722,"Wirral Tranmere, United Kingdom",https://aqicn.org/city/united-kingdom/wirral-tranmere
+66,3222,53.967513,-1.086514,"York Bootham, United Kingdom",https://aqicn.org/city/united-kingdom/york-bootham
+67,3223,53.951889,-1.075861,"York Fishergate, United Kingdom",https://aqicn.org/city/united-kingdom/york-fishergate
+68,3224,52.199575,0.12774,"Cambridge Gonville Place, United Kingdom",https://aqicn.org/city/united-kingdom/cambridge-gonville-place
+69,3225,52.20843,0.141521,"Cambridge Newmarket Road, United Kingdom",https://aqicn.org/city/united-kingdom/cambridge-newmarket-road
+70,3226,52.225556,0.087222,"Girton Road, United Kingdom",https://aqicn.org/city/united-kingdom/girton-road
+71,3390,51.487534,-0.479451,"London Hillingdon Harmondsworth Os, United Kingdom",https://aqicn.org/city/united-kingdom/london-hillingdon-harmondsworth-os
+72,4600,49.5001917595947,0.110902803971606,"Rue  Lafaurie (coté Montant), Le Havre, France",https://aqicn.org/city/france/le-havre/rue--lafaurie-cote-montant
+73,4601,49.6363652434001,-1.62666731502932,"Cherbourg Rue Paul Doumer, France",https://aqicn.org/city/france/normandie/cherbourg-rue-paul-doumer
+74,4602,49.6469486216996,-1.59341688636545,"Tourlaville - Boulevard Maritime, France",https://aqicn.org/city/france/normandie/tourlaville-boulevard-maritime
+75,4610,49.9180080986299,1.07397213322362,"Dieppe, avenue Gambetta, proxi auto, France",https://aqicn.org/city/france/normandie/dieppe--avenue-gambetta--proxi-auto
+76,4611,49.9163688532011,0.957177603971399,"Phare d Ailly, France",https://aqicn.org/city/france/normandie/phare-d-ailly
+77,4903,51.074793,-4.041924,"Barnstaple A39, United Kingdom",https://aqicn.org/city/united-kingdom/barnstaple-a39
+78,4904,55.865782,-4.243631,"Glasgow Townhead, United Kingdom",https://aqicn.org/city/united-kingdom/glasgow-townhead
+79,4905,52.619823,-1.127311,"Leicester University, United Kingdom",https://aqicn.org/city/united-kingdom/leicester-university
