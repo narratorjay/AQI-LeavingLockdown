@@ -4,4 +4,7 @@ One goal is to explore if it is worth paying for the air we breathe. Everyone bu
 
 There are tie-ins to current ecological concerns.  For instance, 120 people died during the summer 2021 floods in Belgium & Germany, many along the Maas/ Meuse river.  In the 1930 "fog incident" along the same river valley 60 people died after inhaling industrial smog.  No air quality legislation was introduced - until the creation of the EU.  In the UK, the Clean Air Acts of 1956 (four years after London's Great Smog), 1956 and 1993 were passed, but it took almost a decade for the 2013 death of nine-year-old Ella Kissi-Debrah to be legally attributed to "air pollution exposure" in Lambeth.
 
+This map shows the positions of the UK & Eire monitoring stations used for air quality measurements.
+
+![image](https://user-images.githubusercontent.com/38632007/127888832-baa0cef5-ffcb-4234-95bf-22b613c5bdb5.png)
 
